@@ -1,5 +1,5 @@
 {
-  "name": "typescript-webpack-template",
+  "name": "scale-guess",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pecology/typescript-webpack-template.git"
+    "url": "git+https://github.com/pecology/scale-guess.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pecology/typescript-webpack-template/issues"
+    "url": "https://github.com/pecology/scale-guess/issues"
   },
-  "homepage": "https://github.com/pecology/typescript-webpack-template#readme",
+  "homepage": "https://github.com/pecology/scale-guess#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.13.0",
     "@typescript-eslint/parser": "^2.13.0",

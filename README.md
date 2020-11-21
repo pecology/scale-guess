@@ -1,1 +1,1 @@
-# typescript-webpack-template
+# scale-guess
